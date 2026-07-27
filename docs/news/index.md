@@ -1,5 +1,9 @@
 # Changelog
 
+## modelbuilder 0.2.8
+
+- Minor updates
+
 ## modelbuilder 0.2.6
 
 - New features, bug-fixes

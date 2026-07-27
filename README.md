@@ -31,18 +31,15 @@ customization.
 
 ## Getting Started
 
-The main use case is to install the R package and use it locally. If you
-want to get a quick glimpse at the package to see if this package is for
-you, you can give it [a quick try online, without having to install
-it](https://shiny.ovpr.uga.edu/modelbuilder/). Note that not all
-functionality might work in this online version.
+<!-- The main use case is to install the R package and use it locally. If you want to get a quick glimpse at the package to see if this package is for you, you can give it [a quick try online, without having to install it](https://shiny.ovpr.uga.edu/modelbuilder/). Note that not all functionality might work in this online version. 
+If you like what you see, you can install it locally.  -->
 
-If you like what you see, you can install it locally. I assume you have
-`R` installed. I also highly recommend `RStudio`, though it’s not
-required. The package has not yet been submitted to CRAN, therefore it
-currently needs to be installed from Github. To do so, you need the
-`remotes` package. If you don’t have it, install it first. Then, install
-and get **modelbuilder** up and running with these commands:
+I assume you have `R` installed. I also highly recommend to have an IDE
+like `Positron` or `RStudio`, though it’s not required. The package has
+not yet been submitted to CRAN, therefore it currently needs to be
+installed from Github. To do so, you need the `remotes` package. If you
+don’t have it, install it first. Then, install and get **modelbuilder**
+up and running with these commands:
 
     library('remotes') #install this package if you don't have it
     install_github('andreashandel/modelbuilder')

@@ -117,17 +117,9 @@ A script in `\auxiliary\helperfuncttions` can take a mbmodel provided as Rds or 
 
 ### To build the package
 * "by hand" edit the DESCRIPTION file to make sure it's up to date
-* in RStudio, use the functions in the 'build' tab to test and build the package.
-* Run clean and rebuild, then build and reload using menu, or devtools::load_all()
+* Run devtools::load_all()
 * Run the check, fix any errors 
 
-### To-do at release time (no CRAN release for this package yet)
-* Re-build documentation, re-build package
-* Re-build vignettes with devtools::build_vignettes()
-* Run check and make sure no problems occur
-* Re-create package site with pkgdown::build_site()
-* Sync everything to github
-* Check vignette and function references on website, fix errors
-* Run devtools::check_rhub() and devtools::check_win_devel()
-* Do a test run of devtools::release()
+### To-do for CRAN release 
+* Package hasn't been released to CRAN and is not expected to be any time soon
 
