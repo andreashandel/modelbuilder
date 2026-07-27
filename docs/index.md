@@ -5,10 +5,9 @@ compartmental simulation models**
 
 ## Note
 
-**The package is under active development. This is an early version of
-the package, only some features are already implemented. It should
-mostly work, but has not been fully tested/debugged. Let us know if
-something fails.**
+**The package has not seen much attention lately and was never fully
+completed. It should mostly work, but there are no guarantees. Let me
+know if something fails.**
 
 ## Description
 

@@ -5,10 +5,10 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/andreashandel/modelbuilder/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
-[![Coverage
-status](https://codecov.io/gh/andreashandel/modelbuilder/branch/master/graph/badge.svg)](https://codecov.io/github/andreashandel/modelbuilder?branch=master)
-[![test-coverage](https://github.com/andreashandel/modelbuilder/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
+<!-- [![R-CMD-check](https://github.com/andreashandel/modelbuilder/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
+[![Coverage status](https://codecov.io/gh/andreashandel/modelbuilder/branch/master/graph/badge.svg)](https://codecov.io/github/andreashandel/modelbuilder?branch=master)
+[![test-coverage](https://github.com/andreashandel/modelbuilder/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/modelbuilder/actions) -->
+
 <!-- badges: end -->
 
 **modelbuilder - A package for graphical building and analysis of
@@ -16,10 +16,9 @@ compartmental simulation models**
 
 ## Note
 
-**The package is under active development. This is an early version of
-the package, only some features are already implemented. It should
-mostly work, but has not been fully tested/debugged. Let us know if
-something fails.**
+**The package has not seen much attention lately and was never fully
+completed. It should mostly work, but there are no guarantees. Let me
+know if something fails.**
 
 ## Description
 
@@ -57,32 +56,31 @@ introduction.
 
 ## Further information
 
--   We developed two packages that teach the use of compartmental
-    simulation models for use on the population level ([DSAIDE
-    package](https://andreashandel.github.io/DSAIDE/)), and individual
-    host/patient level ([DSAIRM
-    package](https://andreashandel.github.io/DSAIRM/)). Those packages come
-    with pre-coded simulations and are meant for learning, while
-    **modelbuilder** lets you build your own models and is geared
-    towards more advanced users.
--   I regularly teach courses related to infectious diseases and
-    modeling. Materials covering population level infectious diseases
-    and modeling [can be found
-    here](https://andreashandel.github.io/IDEMAcourse/), similar
-    materials covering modeling on the within-host, patient level [can
-    be found here](https://andreashandel.github.io/SMIcourse/).
--   Contributions to the package are very welcome! If you want to take a
-    deeper look at the package, see [this Markdown
-    file](https://github.com/andreashandel/modelbuilder/blob/master/auxiliary/docsfordevelopers/documentation.md)
-    which provides further information on the details of the package
-    structure. I’d be excited to receive any contributions from
-    individuals who want to help improve the package. If you plan to
-    make substantial contributions, it might be best to get in touch
-    with me first.
--   I send out a monthly newsletter in which (among other things) I
-    announce any noteworthy updates to my R packages. If you want to
-    stay updated, [you can sign up
-    here](https://www.andreashandel.com/susbscribe/).
+- We developed two packages that teach the use of compartmental
+  simulation models for use on the population level ([DSAIDE
+  package](https://andreashandel.github.io/DSAIDE/)), and individual
+  host/patient level ([DSAIRM
+  package](https://andreashandel.github.io/DSAIRM/)). Those packages
+  come with pre-coded simulations and are meant for learning, while
+  **modelbuilder** lets you build your own models and is geared towards
+  more advanced users.
+- I regularly teach courses related to infectious diseases and modeling.
+  Materials covering population level infectious diseases and modeling
+  [can be found here](https://andreashandel.github.io/IDEMAcourse/),
+  similar materials covering modeling on the within-host, patient level
+  [can be found here](https://andreashandel.github.io/SMIcourse/).
+- Contributions to the package are very welcome! If you want to take a
+  deeper look at the package, see [this Markdown
+  file](https://github.com/andreashandel/modelbuilder/blob/master/auxiliary/docsfordevelopers/documentation.md)
+  which provides further information on the details of the package
+  structure. I’d be excited to receive any contributions from
+  individuals who want to help improve the package. If you plan to make
+  substantial contributions, it might be best to get in touch with me
+  first.
+- I send out a monthly newsletter in which (among other things) I
+  announce any noteworthy updates to my R packages. If you want to stay
+  updated, [you can sign up
+  here](https://www.andreashandel.com/susbscribe/).
 
 ## Acknowledgements
 

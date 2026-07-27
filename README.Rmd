@@ -16,9 +16,9 @@ knitr::opts_chunk$set(
 
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/andreashandel/modelbuilder/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
+<!-- [![R-CMD-check](https://github.com/andreashandel/modelbuilder/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
 [![Coverage status](https://codecov.io/gh/andreashandel/modelbuilder/branch/master/graph/badge.svg)](https://codecov.io/github/andreashandel/modelbuilder?branch=master)
-[![test-coverage](https://github.com/andreashandel/modelbuilder/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/modelbuilder/actions)
+[![test-coverage](https://github.com/andreashandel/modelbuilder/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/modelbuilder/actions) -->
 <!-- badges: end -->
 
 **modelbuilder - A package for graphical building and analysis of compartmental simulation models**

@@ -39,6 +39,6 @@ Suggests:
     rmarkdown (>= 1.10),
     testthat
 VignetteBuilder: knitr
-URL: https://andreashandel.github.io/modelbuilder/, https://github.com/andreashandel/modelbuilder/
+URL: https://andreashandel.github.io/modelbuilder/
 BugReports: https://github.com/andreashandel/modelbuilder/issues
 Config/roxygen2/version: 8.0.0
